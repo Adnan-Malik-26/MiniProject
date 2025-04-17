@@ -52,21 +52,6 @@ This mini project is developed as part of the 6th semester curriculum for B.Tech
 
 ---
 
-## 🧪 Installation & Setup
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/carbonet.git
-cd carbonet
-
-# Start the frontend
-cd frontend
-npm install
-npm run dev
-```
-
----
-
 ## 📜 License
 
 This project is licensed under the MIT License.
